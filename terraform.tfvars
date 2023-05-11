@@ -1,0 +1,6 @@
+region        = "us-east-1"
+ami           = "ami-0889a44b331db0194"
+keypair       = "key-to-instance1"
+instance-type = "t2.micro"
+subnet_id     = "subnet-0cb40593e9990fbc1"
+Name          = "dev-server"
